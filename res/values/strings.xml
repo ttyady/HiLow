@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HiLow</string>
+    <string name="main_title">High And Low</string>
+    <string name="gamestart_label">Start</string>
+    <string name="about_label">About</string>
+    <string name="exit_label">Exit</string>
+    <string name="about_title">About High And Low</string>
+    <string name="about_text">\
+        表示されている数字が裏返されているカードより大きいか小さいか予想しよう
+    </string>
+    <string name="game_title">Game</string>
+    <string name="high_label">HIGH</string>
+    <string name="low_label">LOW</string>
+</resources>
