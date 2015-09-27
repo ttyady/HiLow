@@ -25,6 +25,7 @@ public class HiLow extends Activity implements OnClickListener{
 		switch(v.getId()){
 		case R.id.about_button:
 			i = new Intent(this,About.class);
+
 			startActivity(i);
 			break;
 		case R.id.exit_button:
