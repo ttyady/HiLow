@@ -8,7 +8,8 @@
     <string name="exit_label">Exit</string>
     <string name="about_title">About High And Low</string>
     <string name="about_text">\
-        表示されている数字が裏返されているカードより大きいか小さいか予想しよう
+        裏返されているカードが表示されている数字より大きいか小さいか予想しよう
+        何問連続正解できるかな？
     </string>
     <string name="game_title">Game</string>
     <string name="high_label">HIGH</string>

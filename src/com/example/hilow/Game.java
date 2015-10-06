@@ -149,7 +149,6 @@ public class Game extends Activity implements OnClickListener{
 					AnsCurrent();
 				}else{
 					AnsIncorrect();
-
 				}
 			}
 			break;
